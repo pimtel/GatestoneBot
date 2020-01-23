@@ -1,0 +1,15 @@
+{
+  "name": "gatestoneapi",
+  "version": "1.0.0",
+  "description": "Gatestone Telegram Bot",
+  "main": "index.js",
+  "author": "Rogério Pimentel",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.7.3",
+    "tgapi": "^2.2.6"
+  }
+}
